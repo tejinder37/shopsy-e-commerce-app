@@ -5,7 +5,6 @@
 <img src="./frontend/public/images/ss1.png">
 <img src="./frontend/public/images/ss2.png">
 
-This project is part of my [MERN Stack From Scratch | eCommerce Platform](https://www.traversymedia.com/mern-stack-from-scratch) course. It is a full-featured shopping cart with PayPal & credit/debit payments.
 
 ## Features
 
